@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 📈 GitHub Stats
 
-![Benard Oyoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Kipkoech&show_icons=true&theme=radical)
+![Benard Oyoko's GitHub stats]
 
 ## 🏆 GitHub Trophies
 
